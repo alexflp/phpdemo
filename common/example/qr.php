@@ -43,7 +43,7 @@ $inputObj->setRedirect(urlencode('http://119.29.230.16/success.php?order_id=' . 
 <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>FlashPay支付样例-扫码</title>
+    <title>AlphaPay支付样例-扫码</title>
     <script>
         function redirect(url) {
             window.location.href = url;

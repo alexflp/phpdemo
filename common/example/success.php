@@ -7,7 +7,7 @@ ini_set('date.timezone', 'America/Vancouver');
 <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>FlashPay支付成功</title>
+    <title>AlphaPay支付成功</title>
 </head>
 <body>
 <p style="font-size: 30px">Order <?php echo $_GET['order_id']; ?> Paid</p>
