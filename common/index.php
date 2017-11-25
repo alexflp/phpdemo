@@ -2,7 +2,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <title>RoyalPay支付样例</title>
+    <title>AlphaPay支付样例</title>
     <style type="text/css">
         ul {
             margin-left: 10px;
